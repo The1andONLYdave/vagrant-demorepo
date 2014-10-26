@@ -22,3 +22,5 @@ $RECYCLE.BIN/
 
 
 #too big for uploading possible?
+/boxes/vagrant-debian-wheezy/0/virtualbox/box-disk2.vmdk
+#find it at dropbox link in readme file
